@@ -3,10 +3,12 @@
 ## Overview of Project
 
 ### Background
-    Louise started a crowdfunding campaign to help fund her play Fever, with a funding goal of ~$10K. She is close to achieving the goal and want to understand more about possibility of achieving the required funding using the Kickstarter data set. 	
+    Louise started a crowdfunding campaign to help fund her play Fever, with a funding goal of ~$10K. 
+    She is close to achieving the goal and want to understand more about possibility of achieving the required funding using the Kickstarter data set. 	
 
 ### Purpose
-    Purpose of the project is to analyze Kickstarter dataset and provide insights & recommendations on the feasibility of Louise achieving the fundraising goal. Explore different visualizations using data from other fund-raising campaigns, primarily based on Launch dates and $goals. 
+    Purpose of the project is to analyze Kickstarter dataset and provide insights & recommendations on the feasibility of Louise achieving the fundraising goal. 
+    Explore different visualizations using data from other fund-raising campaigns, primarily based on Launch dates and $goals. 
 
 ## Analysis and Challenges
 
@@ -22,8 +24,11 @@
 -	Learn and familiarize with excel functionalities
 
 ### Challenges and Difficulties Encountered
+
 -	Working with aggregations and creating visualization was challenging initially, but with practice and multiple iterations I am able to achieve them.
+
 -	Validating the formula: While using Countifs, it was challenge to verify if the results are accurate. Manually added columns to the excel to verify with the results
+
 -	Determining which visualization to use for the custom analysis was difficult, hoping to learn multiple scenarios where I will be able to judge best visualization for the analysis.
 
 ## Results
@@ -31,10 +36,12 @@
 ### Analysis of Outcomes Based on Launch Date
 1.	Highest number of campaigns were launched in successful when launched in May, followed by June and July. Success rates: 67%, 65% and 63% respectively.
 2.	Lower number of campaigns were launched in Dec with higher rate of failure (47% failure: 35 out of 75 campaigns)
+
 ![Getting started](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 - The success rate of campaigns is inversely proportional to the $ value of the goal, with the exception of $35K to 45K range (small sample set of campaigns)
+
 ![Getting started](./resources/Outcomes_vs_Goals.png)
 
 ### Dataset Limitations
