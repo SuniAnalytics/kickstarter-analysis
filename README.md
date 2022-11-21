@@ -4,10 +4,13 @@
 
 ### Background
     Louise started a crowdfunding campaign to help fund her play Fever, with a funding goal of ~$10K. 
-    She is close to achieving the goal and want to understand more about possibility of achieving the required funding using the Kickstarter data set. 	
+    She is close to achieving the goal and want to understand more about possibility of achieving the required funding 
+    using the Kickstarter data set. 	
 
 ### Purpose
-    Purpose of the project is to analyze Kickstarter dataset and provide insights & recommendations on the feasibility of Louise achieving the fundraising goal. 
+    Purpose of the project is to analyze Kickstarter dataset and provide insights & recommendations on the feasibility of Louise 
+    achieving the fundraising goal. 
+    
     Explore different visualizations using data from other fund-raising campaigns, primarily based on Launch dates and $goals. 
 
 ## Analysis and Challenges
@@ -15,7 +18,8 @@
 ### Analysis Overview
 -	Understanding the project scope and the data set
 
-    	I took time to understand the project case and review the data set. I took a note of relevant fields for the analysis and started pivoting the data to understand the patterns and data.
+    	I took time to understand the project case and review the data set. I took a note of relevant fields for the analysis and started 
+        pivoting the data to understand the patterns and data.
 
 -	Explore for relevant insights  
 
@@ -27,9 +31,11 @@
 
 -	Working with aggregations and creating visualization was challenging initially, but with practice and multiple iterations I am able to achieve them.
 
--	Validating the formula: While using Countifs, it was challenge to verify if the results are accurate. Manually added columns to the excel to verify with the results
+-	Validating the formula: While using Countifs, it was challenge to verify if the results are accurate. Manually added columns to the excel 
+to verify with the results
 
--	Determining which visualization to use for the custom analysis was difficult, hoping to learn multiple scenarios where I will be able to judge best visualization for the analysis.
+-	Determining which visualization to use for the custom analysis was difficult, hoping to learn multiple scenarios where 
+I will be able to judge best visualization for the analysis.
 
 ## Results
 
