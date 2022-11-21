@@ -43,7 +43,7 @@ I will be able to judge best visualization for the analysis.
 1.	Highest number of campaigns were launched in successful when launched in May, followed by June and July. Success rates: 67%, 65% and 63% respectively.
 2.	Lower number of campaigns were launched in Dec with higher rate of failure (47% failure: 35 out of 75 campaigns)
 
-![Getting started](./resources/Theater_Outcomes_vs_Launch.png)
+![](https://github.com/SuniAnalytics/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 - The success rate of campaigns is inversely proportional to the $ value of the goal, with the exception of $35K to 45K range (small sample set of campaigns)
