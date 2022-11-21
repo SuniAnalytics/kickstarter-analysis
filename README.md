@@ -48,7 +48,7 @@ I will be able to judge best visualization for the analysis.
 ### Analysis of Outcomes Based on Goals
 - The success rate of campaigns is inversely proportional to the $ value of the goal, with the exception of $35K to 45K range (small sample set of campaigns)
 
-![Getting started](./resources/Outcomes_vs_Goals.png)
+![](https://github.com/SuniAnalytics/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Dataset Limitations
 -	Goal Achieved date: Would have helped to understand how long it took on average for the successful campaigns to achieve the funding goal
@@ -57,9 +57,9 @@ I will be able to judge best visualization for the analysis.
 ### Recommendations for additional visualizations
 - Campaigns launched in November has **80%** success rate (Play Subcategory and Goal range of $5K to 15K)
 
-   ![Getting started](./resources/Option1_PlayOutcomes_ByMonth_Goal5K-15K.png)
+   ![](https://github.com/SuniAnalytics/kickstarter-analysis/blob/main/Resources/Option1_PlayOutcomes_ByMonth_Goal5K-15K.png)
 
 - Staff picked campaigns has **82%** of success rate (Play Subcategory and Goal range of $5K to 15K)
 
-   ![Getting started](./resources/Option2_PlayOutcomes_ByStaffPick_Goal5K-15K.png)
+   ![](https://github.com/SuniAnalytics/kickstarter-analysis/blob/main/Resources/Option2_PlayOutcomes_ByStaffPick_Goal5K-15K.png)
 
